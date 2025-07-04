@@ -6,3 +6,4 @@ faiss-cpu
 langchain
 langchain-google-genai
 reportlab
+langchain-community

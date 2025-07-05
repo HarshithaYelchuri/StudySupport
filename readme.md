@@ -123,7 +123,7 @@ studysupport/
 │   └── vector_store.py
 ├── data/
 │   ├── uploads/
-│   ├── db/                 # FAISS vector store
+│   ├── db/                 
 │   └── logo.png
 ├── screenshots/
 │   ├── upload.png

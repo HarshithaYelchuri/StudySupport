@@ -31,9 +31,13 @@
 
 | Upload PDF                        | Ask Questions               | Generate Quiz                 |
 | --------------------------------- | --------------------------- | ----------------------------- |
-| ![Upload](screenshots/upload.png) | ![Ask](screenshots/ask.png) | ![Quiz](screenshots/quiz.png) |
+| ![image](https://github.com/user-attachments/assets/4876c96a-7d58-4610-b2e1-428e8f70fed1)
+ | ![image](https://github.com/user-attachments/assets/ec62b4ff-ea99-45a0-961e-b20fa3878a30)
+ |![image](https://github.com/user-attachments/assets/7b16d9d4-71b8-48b0-83f1-12efc41fa69b)
+ |
 
 ---
+
 
 ## 🧠 Overview
 
